@@ -51,7 +51,7 @@ const SignupForm = () => {
 
       <form action="" onSubmit={submitHandler} className='w-full'>
 
-        <div className="flex w-full justify-between gap-x-4">
+        <div className="gap-x-4 justify-between w-full md:flex">
 
             <label className="w-full">
                 <p
