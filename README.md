@@ -4,8 +4,6 @@
 
 This project was tailwind with [Create React App](https://github.com/facebook/create-react-app).
 
-#### Live Demo : https://jikssss-word-counter.netlify.app/
-
 ## Available Scripts
 
 In the project directory, you can run:
